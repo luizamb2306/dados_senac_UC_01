@@ -1,5 +1,7 @@
 #1- Faça um programa que obtenha o valor para a variável HT (horas trabalhadas no mês), obtenha o valor
-#para a variável VH (valor hora trabalhada), obtenha o valor para a variável PD (percentual de desconto) e calcule o salário bruto => SB = HT * VH, mais o total de desconto => TD = (PD/100)*SB e o salário líquido => SL = SB – TD. Apresentando ao final o Salário Liquido
+#para a variável VH (valor hora trabalhada), obtenha o valor para a variável PD (percentual de desconto) 
+#e calcule o salário bruto => SB = HT * VH, mais o total de desconto => TD = (PD/100)*SB e o salário líquido => SL = SB – TD. 
+#Apresentando ao final o Salário Liquido
 
 #entrada de dados
 taxa_PD = float(input('A taxa de desconto é:'))
